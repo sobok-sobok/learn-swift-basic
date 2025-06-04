@@ -1,12 +1,84 @@
 {
 	"users": [
 		{
-			"name": "jaebok",
+			"name": "so",
+			"height": 158
+		},
+		{
+			"name": "bok",
 			"height": 180
 		},
 		{
-			"name": "somi",
-			"height": 156
+			"name": "카리나",
+			"height": 168
+		},
+		{
+			"name": "안유진",
+			"height": 173
+		},
+		{
+			"name": "장원영",
+			"height": 173
+		},
+		{
+			"name": "민지",
+			"height": 169
+		},
+		{
+			"name": "혜인",
+			"height": 170
+		},
+		{
+			"name": "카즈하",
+			"height": 170
+		},
+		{
+			"name": "허윤진",
+			"height": 172
+		},
+		{
+			"name": "홍은채",
+			"height": 170
+		},
+		{
+			"name": "예지",
+			"height": 167
+		},
+		{
+			"name": "유나",
+			"height": 170
+		},
+		{
+			"name": "레이",
+			"height": 170
+		},
+		{
+			"name": "리즈",
+			"height": 172
+		},
+		{
+			"name": "설윤",
+			"height": 168
+		},
+		{
+			"name": "베이",
+			"height": 171
+		},
+		{
+			"name": "윤",
+			"height": 173
+		},
+		{
+			"name": "제이",
+			"height": 171
+		},
+		{
+			"name": "리이나",
+			"height": 172
+		},
+		{
+			"name": "원지민",
+			"height": 172
 		}
 	]
 }
