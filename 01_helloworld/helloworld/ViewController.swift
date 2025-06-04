@@ -12,8 +12,8 @@ class ViewController: UIViewController {
 
         let label = UILabel()
         label.text = "Hello world!"
-        label.textColor = .blue
-        label.backgroundColor = .yellow
+        label.textColor = UIColor.blue
+        label.backgroundColor = UIColor.yellow
         label.font = UIFont.systemFont(ofSize: 50)
         label.translatesAutoresizingMaskIntoConstraints = false
         self.view.addSubview(label)
